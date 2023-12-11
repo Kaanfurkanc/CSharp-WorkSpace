@@ -1,0 +1,6 @@
+@PrimaryConstructor.WebApi_HostAddress = http://localhost:5197
+
+GET {{PrimaryConstructor.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
